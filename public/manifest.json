@@ -1,13 +1,14 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-4ed993c7.js",
-    "isEntry": true,
-    "src": "resources/css/app.css"
+    "file": "assets/app-CMVL4No9.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app-c7646f24.js",
-    "isEntry": true,
-    "src": "resources/js/app.js"
+    "file": "assets/app-DGENiSLC.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
   },
   "name": "Refritec SAS",
   "theme_color": "#731616",

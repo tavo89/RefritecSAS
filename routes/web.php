@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\OrdenTallerController;
 
 Route::get('/', function () {
-    return redirect()->route('login');  // Redirige a la página de login
+    return redirect()->route('login');  // Redirige a la página de login welcome login
 });
 
 Route::view('dashboard', 'dashboard',[OrdenTallerController::class, 'index'])
